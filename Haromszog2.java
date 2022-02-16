@@ -8,6 +8,8 @@
 * Licenc: GNU GPL
 */
 
+// modified
+
 import java.util.Scanner;
 
 class Haromszog2 {
