@@ -8,7 +8,6 @@
 * Licenc: GNU GPL
 */
 
-// modified
 
 import java.util.Scanner;
 
